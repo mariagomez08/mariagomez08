@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hola, soy María Gómez
 
-<!--
-**mariagomez08/mariagomez08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolladora Backend Junior con conocimientos en Java, Spring Boot y bases de datos relacionales.
+Experiencia desarrollando proyectos académicos enfocados en APIs REST, autenticación y persistencia de datos.
 
-Here are some ideas to get you started:
+Actualmente fortaleciendo habilidades en backend, arquitectura de software y desarrollo de aplicaciones escalables.
+## Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+## Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,idea" />
+</p>
+
+## Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+## Proyectos
+- NASA APOD Explorer
+- Salitre Mágico Management System
+- Agora Inventory System
+
+## Contacto
+- LinkedIn: (https://www.linkedin.com/in/maria-de-los-angeles--gomez-guzman-desarrolladora-junior/
+- GitHub: https://github.com/mariagomez08
